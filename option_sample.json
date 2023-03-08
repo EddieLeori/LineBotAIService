@@ -1,0 +1,19 @@
+{
+	"LineBotAIService":{
+		"ai_talk_url": "http://127.0.0.1:5124/talk",
+		"ai_img_url": "http://127.0.0.1:5124/img",
+		"notify_url": "http://127.0.0.1:5125/action",
+		"psw":"!@34001?>f!&&"
+	},
+	"LineBotService":{
+		"sertpem": "ssl/cabcertpem.pem",
+		"sertkey": "ssl/private.key",
+		"host": "0.0.0.0",
+		"port":5123,
+		"botid": "your_bot_id",
+		"secret":"your_secret",
+		"token":"your_token",
+		"is_tag_reply":"0",
+		"psw":"!@34001?>f!&&"
+	}
+}
